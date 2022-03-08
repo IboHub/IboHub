@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IboHub
+<strong>👋 Hi, I’m @IboHub</strong>
 - 👀 I’m interested Python, Javascript, HTML CSS JS
 - 🌱 I’m currently learning SMS, DDOS
 - 💞️ I’m looking to collaborate on CNP, X2SWORD
